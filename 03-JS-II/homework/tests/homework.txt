@@ -1,0 +1,9 @@
+
+for
+Esto se utiliza para repetir una tarea o instruccion un cierto numero
+determinado de  veces que ya sabemos cuantas van  a ser.
+
+&&, ||, !
+
+Estos son operadores logicos se utilizan para que se den ciertas 
+condiciones en una expresion 
